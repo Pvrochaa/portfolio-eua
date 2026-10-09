@@ -1,0 +1,9 @@
+Coloque aqui as imagens (captura do topo de cada site, proporção 16:10, 1280x800):
+
+hospital-dos-animais.jpg
+odonto-utrini.jpg
+carla-verena.jpg
+clinica-arena.jpg
+og.jpg            (imagem de compartilhamento, 1200x630)
+
+Logo e favicon (logo.png, logo-mark.png, favicon.png, apple-touch-icon.png) já estão incluídos.
